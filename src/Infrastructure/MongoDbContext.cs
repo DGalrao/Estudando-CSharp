@@ -1,3 +1,4 @@
+using Core.Entities;
 using MongoDB.Driver;
 
 namespace Infrastructure

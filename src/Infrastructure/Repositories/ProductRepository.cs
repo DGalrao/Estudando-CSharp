@@ -13,20 +13,19 @@ namespace Infrastructure.Repositories
             _products = context.Products;
         }
 
-        public async Task<IEnumerable<Product>> GetAllAsync()
+        public async Task<List<Product>> GetAllAsync()
         {
             return await _products.Find(_ => true).ToListAsync();
         }
 
-        public async Task<Product> GetByIdAsync(Guid id)
+        public async Task<Product?> GetByIdAsync(Guid id)
         {
             return await _products.Find(p => p.Id == id).FirstOrDefaultAsync();
         }
 
-        public async Task<Product> AddAsync(Product product)
+        public async Task AddAsync(Product product)
         {
             await _products.InsertOneAsync(product);
-            return product;
         }
 
         public async Task UpdateAsync(Product product)

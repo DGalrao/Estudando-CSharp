@@ -10,3 +10,15 @@ E:\Imagens\Tudo\Programação\Projetos\Estudando-CSharp\Core\obj\Debug\net8.0\Co
 E:\Imagens\Tudo\Programação\Projetos\Estudando-CSharp\Core\obj\Debug\net8.0\refint\Core.dll
 E:\Imagens\Tudo\Programação\Projetos\Estudando-CSharp\Core\obj\Debug\net8.0\Core.pdb
 E:\Imagens\Tudo\Programação\Projetos\Estudando-CSharp\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\bin\Debug\net8.0\Core.dll
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.dll
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\dgalrao\Documents\Projetos\Estudando-CSharp\src\Core\obj\Debug\net8.0\ref\Core.dll
